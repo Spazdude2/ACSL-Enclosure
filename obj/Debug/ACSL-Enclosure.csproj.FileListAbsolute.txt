@@ -1,0 +1,7 @@
+C:\Users\Andrew Spaziani\Source\Repos\ACSL-Enclosure\bin\Debug\ACSL-Enclosure.exe.config
+C:\Users\Andrew Spaziani\Source\Repos\ACSL-Enclosure\bin\Debug\ACSL-Enclosure.exe
+C:\Users\Andrew Spaziani\Source\Repos\ACSL-Enclosure\bin\Debug\ACSL-Enclosure.pdb
+C:\Users\Andrew Spaziani\Source\Repos\ACSL-Enclosure\obj\Debug\ACSL-Enclosure.csprojResolveAssemblyReference.cache
+C:\Users\Andrew Spaziani\Source\Repos\ACSL-Enclosure\obj\Debug\ACSL-Enclosure.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Spaziani\Source\Repos\ACSL-Enclosure\obj\Debug\ACSL-Enclosure.exe
+C:\Users\Andrew Spaziani\Source\Repos\ACSL-Enclosure\obj\Debug\ACSL-Enclosure.pdb
